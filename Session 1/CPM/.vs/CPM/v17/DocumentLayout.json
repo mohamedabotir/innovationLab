@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfayed\\source\\repos\\CPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC472B1-10B1-4D0F-B501-478E0E43FB91}|CPM.BusinessLogic\\CPM.BusinessLogic.csproj|c:\\users\\mfayed\\source\\repos\\cpm\\cpm.businesslogic\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC472B1-10B1-4D0F-B501-478E0E43FB91}|CPM.BusinessLogic\\CPM.BusinessLogic.csproj|solutionrelative:cpm.businesslogic\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE4760E-E433-40E7-B827-26644D047410}|CPM.UnitTest\\CPM.UnitTest.csproj|c:\\users\\mfayed\\source\\repos\\cpm\\cpm.unittest\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE4760E-E433-40E7-B827-26644D047410}|CPM.UnitTest\\CPM.UnitTest.csproj|solutionrelative:cpm.unittest\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC472B1-10B1-4D0F-B501-478E0E43FB91}|CPM.BusinessLogic\\CPM.BusinessLogic.csproj|c:\\users\\mfayed\\source\\repos\\cpm\\cpm.businesslogic\\cpm.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBC472B1-10B1-4D0F-B501-478E0E43FB91}|CPM.BusinessLogic\\CPM.BusinessLogic.csproj|solutionrelative:cpm.businesslogic\\cpm.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerTest.cs",
+              "DocumentMoniker": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.UnitTest\\CustomerTest.cs",
+              "RelativeDocumentMoniker": "CPM.UnitTest\\CustomerTest.cs",
+              "ToolTip": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.UnitTest\\CustomerTest.cs",
+              "RelativeToolTip": "CPM.UnitTest\\CustomerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:42:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.BusinessLogic\\Customer.cs",
+              "RelativeDocumentMoniker": "CPM.BusinessLogic\\Customer.cs",
+              "ToolTip": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.BusinessLogic\\Customer.cs",
+              "RelativeToolTip": "CPM.BusinessLogic\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:40:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPM.BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.BusinessLogic\\CPM.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "CPM.BusinessLogic\\CPM.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\mfayed\\source\\repos\\CPM\\CPM.BusinessLogic\\CPM.BusinessLogic.csproj",
+              "RelativeToolTip": "CPM.BusinessLogic\\CPM.BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T12:06:28.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
