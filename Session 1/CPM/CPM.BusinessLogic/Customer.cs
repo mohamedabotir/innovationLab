@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CPM.BusinessLogic
+﻿namespace CPM.BusinessLogic
 {
-    public class Customer
+    public abstract class Customer
     {
-        public int CustomerId { get; set; }
+        public Customer(int customerId, string homeAddress)
+        {
+            CustomerId = customerId;
+            HomeAddress = homeAddress;
+        }
+        public int CustomerId { get; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName
@@ -28,5 +27,9 @@ namespace CPM.BusinessLogic
             }
         }
         public string Email { get; set; }
+        public string HomeAddress { get; }
+        public string WorkAddress { get; set; }
+
+        public abstract IOrderCalculator Calculator(Order order);
     }
 }
