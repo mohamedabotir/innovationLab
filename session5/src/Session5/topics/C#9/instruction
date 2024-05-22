@@ -1,0 +1,6 @@
+using System.Security.Principal;
+
+- init word allow to initialize or set value o propery only while object initialize 
+- Required force caller to initalize property
+- record and immutability which is offer can be refrence or value type (immutability,value equality (same type and same value), nondestructive mutation,built in formatting)
+- primary constructor in record vs class

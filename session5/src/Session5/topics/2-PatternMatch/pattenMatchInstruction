@@ -1,0 +1,5 @@
+- first starting with defining pattern match and how it can solve complex problems with little code 
+- introduce strategy design pattern 
+- introduce pattern match with input with totalCost of product using strategy of CustomerDiscount (positional pattern)
+- introduce another important thing is multiple input though type
+- introduce positional with deconstruct

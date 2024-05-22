@@ -1,0 +1,5 @@
+- tuple is collection of related items can be grouped together without define new types 
+- type is value type 
+- destruct withough name will be from Item1 to ItemN
+- Comparer using == or !
+- Named Tuple 

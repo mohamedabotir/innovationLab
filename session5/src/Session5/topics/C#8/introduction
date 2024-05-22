@@ -1,0 +1,6 @@
+- in struct we can define method as readonly this make method cannot modify any variables and make copy of used variable 
+- default method interface make   mathod with body has inital implementation
+- type check with declaration
+- property pattern compare object using specific object 
+- using in line 
+- indicies and ranges in arrays

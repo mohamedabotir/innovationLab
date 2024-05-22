@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#9\\recordtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#9\\recordtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#9\\initialize_required.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#9\\initialize_required.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#9\\instruction||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#9\\instruction||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\introduction||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\introduction||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\2-patternmatch\\pattenmatchinstruction||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\2-patternmatch\\pattenmatchinstruction||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\1-tuple\\tupleinstruction||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\1-tuple\\tupleinstruction||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\icustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\nostandardcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\nostandardcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\premiumcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\premiumcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\standardcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\standardcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\1-tuple\\tupletopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\1-tuple\\tupletopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\usinginline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\usinginline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\typecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\typecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\readonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\readonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\propertypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\propertypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\defaultinterfacemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\defaultinterfacemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\c#8\\indiciesandrangescountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\c#8\\indiciesandrangescountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\topics\\2-patternmatch\\patternmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\topics\\2-patternmatch\\patternmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|d:\\backup\\]\\completereferencecsharppractices\\dotnet 8\\session5\\session5\\strategy\\lawendcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8F928-75BA-49B8-845E-D37CD6DEE1F7}|Session5\\Session5.csproj|solutionrelative:session5\\strategy\\lawendcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TupleInstruction",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\1-Tuple\\TupleInstruction",
+              "RelativeDocumentMoniker": "Session5\\topics\\1-Tuple\\TupleInstruction",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\1-Tuple\\TupleInstruction",
+              "RelativeToolTip": "Session5\\topics\\1-Tuple\\TupleInstruction",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T22:04:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pattenMatchInstruction",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\2-PatternMatch\\pattenMatchInstruction",
+              "RelativeDocumentMoniker": "Session5\\topics\\2-PatternMatch\\pattenMatchInstruction",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\2-PatternMatch\\pattenMatchInstruction",
+              "RelativeToolTip": "Session5\\topics\\2-PatternMatch\\pattenMatchInstruction",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T20:54:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoldCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\GoldCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\GoldCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\GoldCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\GoldCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:19:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\ICustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\ICustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\ICustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\ICustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:53:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Program.cs",
+              "RelativeDocumentMoniker": "Session5\\Program.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Program.cs",
+              "RelativeToolTip": "Session5\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:50:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "introduction",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\introduction",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\introduction",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\introduction",
+              "RelativeToolTip": "Session5\\topics\\C#8\\introduction",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T23:03:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "instruction",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\instruction",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#9\\instruction",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\instruction",
+              "RelativeToolTip": "Session5\\topics\\C#9\\instruction",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-21T08:34:32.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordTest.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\RecordTest.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#9\\RecordTest.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\RecordTest.cs",
+              "RelativeToolTip": "Session5\\topics\\C#9\\RecordTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:55:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "initialize_required.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\initialize_required.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#9\\initialize_required.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#9\\initialize_required.cs",
+              "RelativeToolTip": "Session5\\topics\\C#9\\initialize_required.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:36:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoStandardCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\NoStandardCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\NoStandardCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\NoStandardCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\NoStandardCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:26:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PremiumCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\PremiumCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\PremiumCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\PremiumCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\PremiumCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:11:03.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StandardCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\StandardCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\StandardCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\StandardCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\StandardCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:56:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TupleTopic.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\1-Tuple\\TupleTopic.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\1-Tuple\\TupleTopic.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\1-Tuple\\TupleTopic.cs",
+              "RelativeToolTip": "Session5\\topics\\1-Tuple\\TupleTopic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:52:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsingInline.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\UsingInline.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\UsingInline.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\UsingInline.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\UsingInline.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:23:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TypeCheck.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\TypeCheck.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\TypeCheck.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\TypeCheck.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\TypeCheck.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:12:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "readonly.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\readonly.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\readonly.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\readonly.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\readonly.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:31:49.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyPattern.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\PropertyPattern.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\PropertyPattern.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\PropertyPattern.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\PropertyPattern.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:19:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DefaultInterfaceMethod.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\DefaultInterfaceMethod.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\DefaultInterfaceMethod.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\DefaultInterfaceMethod.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\DefaultInterfaceMethod.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:00:40.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "indiciesAndRangesCountable.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\indiciesAndRangesCountable.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\C#8\\indiciesAndRangesCountable.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\C#8\\indiciesAndRangesCountable.cs",
+              "RelativeToolTip": "Session5\\topics\\C#8\\indiciesAndRangesCountable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:31:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatternMatch.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\2-PatternMatch\\PatternMatch.cs",
+              "RelativeDocumentMoniker": "Session5\\topics\\2-PatternMatch\\PatternMatch.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\topics\\2-PatternMatch\\PatternMatch.cs",
+              "RelativeToolTip": "Session5\\topics\\2-PatternMatch\\PatternMatch.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:50:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LawEndCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\LawEndCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "Session5\\Strategy\\LawEndCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\backup\\]\\CompleteReferenceCSharpPractices\\dotnet 8\\Session5\\Session5\\Strategy\\LawEndCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "Session5\\Strategy\\LawEndCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:37:40.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1085,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1085,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
